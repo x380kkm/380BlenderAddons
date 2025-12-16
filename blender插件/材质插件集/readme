@@ -10,6 +10,9 @@
 注意会强制UV立方体投影
 可以对集合批量应用材质. 另外也包含上一个脚本功能
 
+rename:
+将obj文件内物品重命名为文件名. 需要从文件夹控制台启动.
+
 sbsar工具箱:
 加入了sbsar文件,包含上一个脚本功能
 但是依赖substance for blender addon
